@@ -12,7 +12,6 @@ English version:
    My contact info:
     
     -email: walter.siqueira2@outlook.com;
-    -discord: WalterSiqueira#0130;
     -linkedin: (comming soon);
 
 Versão em Portugues:
