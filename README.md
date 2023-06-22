@@ -1,27 +1,34 @@
-English version:
+# Hi there, I'm Walter Siqueira 👋
+### A self-taught developer passionate about coding and technology!
 
-  <h3>Hi, my name is Walter Siqueira and i'm a self taught developer and welcome to my github profile.</h3>
-  
-   <h2> My contact info: </h2>
+## 📫 Contact Info:
+- LinkedIn: [Walter Siqueira](https://www.linkedin.com/in/walter-siqueira/)
+- Portfolio Website: [Check it out!](https://portifolio-page-walter.vercel.app)
 
-   <a href="https://www.linkedin.com/in/walter-siqueira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>
-   my portifolio website: https://portifolio-page-walter.vercel.app 
+## 💻 Skills:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  <h2> Skills : </h2>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  
------------------------------------------------------------------------------------------------------------------------------------------------------     
-Versão em Portugues:
+## 🌟 Interests:
+- Web development
+- Artificial Intelligence
+- Open-source projects
 
-  <h3>Olá, meu nome é Walter Siqueira e eu sou um desenvolvedor autodidata e seja bem-vindo ao meu perfil no github</h3>
-    
-   <h2>Minhas informações de contato:</h2>
-    
-   <a href="https://www.linkedin.com/in/walter-siqueira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-   
-   <h2> Skills : </h2>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+## 📚 Currently Learning:
+- PHP
+- Back-end development
+
+## 🎯 Goals for the Future:
+- Contribute to impactful & cool projects
+- Expand my knowledge in Back-end development
+
+## ⚡ Fun Fact:
+I love solving nerdy things! 🧩
+
+Feel free to connect with me or explore my projects. Let's collaborate and create something awesome together! 🚀
+
+## GitHub Contributions:
+![GitHub Contributions](https://img.shields.io/github/last-commit/waltersiqueira/waltersiqueira?style=for-the-badge&logo=github&logoColor=white)
