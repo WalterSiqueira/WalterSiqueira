@@ -21,6 +21,14 @@
 - Python
 - Back-end development
 
+## Best projects:
+|      front-end       |      python     |
+| [tip-calculator](https://github.com/WalterSiqueira/tip_calculator)| [cpf](https://github.com/WalterSiqueira/Projeto_cpf)|
+| [petshop-page](https://github.com/WalterSiqueira/pwi)| [move-it](https://github.com/WalterSiqueira/move_it)|
+| [to-do](https://github.com/WalterSiqueira/To_do_app)|  |
+| [calculator](https://github.com/WalterSiqueira/Calculator)|  |
+
+
 ## 🎯 Goals for the Future:
 - Contribute to impactful & cool projects
 - Expand my knowledge in Back-end development
