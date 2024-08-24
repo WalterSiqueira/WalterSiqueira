@@ -9,16 +9,20 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) 
+![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg) 
+![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg)
+
+
 
 ## 🌟 Interests:
-- Web development
-- Artificial Intelligence
-- Automation
+- Mobile development
+- back-end development 
 - Open-source projects
 
 ## 📚 Currently Learning:
-- Python
+- Kotlin
+- Android development
 - Back-end development
 
 ## Best projects:
@@ -27,7 +31,8 @@
 | [petshop-page](https://github.com/WalterSiqueira/pwi)|
 | [to-do](https://github.com/WalterSiqueira/To_do_app)|  |
 | [calculator](https://github.com/WalterSiqueira/Calculator)|  |
-
+| mobile development |
+| [Business card app](https://github.com/WalterSiqueira/BusinessCardApp)|
 | python | 
 [cpf](https://github.com/WalterSiqueira/Projeto_cpf)|
 [move-it](https://github.com/WalterSiqueira/move_it)|
