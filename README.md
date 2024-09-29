@@ -10,20 +10,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="80" height="65"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin"  width="80" height="65"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android"  width="80" height="65"/>
 
 
 
 
 ## 🌟 Interests:
-- Mobile development
 - back-end development 
 - Open-source projects
 
 ## 📚 Currently Learning:
-- Kotlin
-- Android development
 - Back-end development
 
 ## Best projects:
@@ -32,8 +27,6 @@
 | [petshop-page](https://github.com/WalterSiqueira/pwi)|
 | [to-do](https://github.com/WalterSiqueira/To_do_app)|  |
 | [calculator](https://github.com/WalterSiqueira/Calculator)|  |
-| mobile development |
-| [Business card app](https://github.com/WalterSiqueira/BusinessCardApp)|
 | python | 
 [cpf](https://github.com/WalterSiqueira/Projeto_cpf)|
 [move-it](https://github.com/WalterSiqueira/move_it)|
