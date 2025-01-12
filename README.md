@@ -21,12 +21,13 @@
 - Android development
 
 ## Best projects:
-| front-end web
-| [tip-calculator](https://github.com/WalterSiqueira/tip_calculator)| 
-| [petshop-page](https://github.com/WalterSiqueira/pwi)|
-| [to-do](https://github.com/WalterSiqueira/To_do_app)||
-| [calculator](https://github.com/WalterSiqueira/Calculator)||
-| [businessCard](https://github.com/WalterSiqueira/BusinessCardApp)|
+| front-end web |<br>
+| [tip-calculator](https://github.com/WalterSiqueira/tip_calculator)| <br>
+| [petshop-page](https://github.com/WalterSiqueira/pwi)|<br>
+| [to-do](https://github.com/WalterSiqueira/To_do_app)||<br>
+| [calculator](https://github.com/WalterSiqueira/Calculator)||<br>
+| front-end mobile | <br>
+| [businessCard](https://github.com/WalterSiqueira/BusinessCardApp)|<br>
 
 ## 🎯 Goals for the Future:
 - Contribute to impactful & cool projects
