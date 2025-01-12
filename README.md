@@ -6,30 +6,27 @@
 - Portfolio Website: [Check it out!](https://portifolio-page-walter.vercel.app)
 
 ## 💻 Skills:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="80" height="65"/> 
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)<br>
 
 
 
 
 ## 🌟 Interests:
-- back-end development 
+- fullstack development
+- android development
 - Open-source projects
 
 ## 📚 Currently Learning:
-- Back-end development
+- Android development
 
 ## Best projects:
-| front-end 
+| front-end web
 | [tip-calculator](https://github.com/WalterSiqueira/tip_calculator)| 
 | [petshop-page](https://github.com/WalterSiqueira/pwi)|
-| [to-do](https://github.com/WalterSiqueira/To_do_app)|  |
-| [calculator](https://github.com/WalterSiqueira/Calculator)|  |
-| python | 
-[cpf](https://github.com/WalterSiqueira/Projeto_cpf)|
-[move-it](https://github.com/WalterSiqueira/move_it)|
+| [to-do](https://github.com/WalterSiqueira/To_do_app)||
+| [calculator](https://github.com/WalterSiqueira/Calculator)||
+| [businessCard](https://github.com/WalterSiqueira/BusinessCardApp)|
 
 ## 🎯 Goals for the Future:
 - Contribute to impactful & cool projects
