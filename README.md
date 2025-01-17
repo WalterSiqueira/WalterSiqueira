@@ -1,5 +1,6 @@
 # Hi there, I'm Walter Siqueira 👋
 ### A self-taught developer passionate about coding and technology!
+Download my business card app [here](https://github.com/WalterSiqueira/BusinessCardApp/releases)!
 
 ## 📫 Contact Info:
 - LinkedIn: [Walter Siqueira](https://www.linkedin.com/in/walter-siqueira/)
